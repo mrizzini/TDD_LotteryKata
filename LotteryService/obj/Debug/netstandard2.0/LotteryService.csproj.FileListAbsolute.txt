@@ -1,0 +1,9 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/bin/Debug/netstandard2.0/LotteryService.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/bin/Debug/netstandard2.0/LotteryService.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/bin/Debug/netstandard2.0/LotteryService.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.csprojAssemblyReference.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_LotteryKata/LotteryService/obj/Debug/netstandard2.0/LotteryService.pdb
